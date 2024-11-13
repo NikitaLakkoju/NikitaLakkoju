@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @NikitaLakkoju
-- 👀 I’m interested in Money
 
 <!---
 NikitaLakkoju/NikitaLakkoju is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
