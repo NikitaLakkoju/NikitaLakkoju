@@ -4,16 +4,21 @@ Welcome to my GitHub profile! I am passionate about Full stack development, AI/M
 
 
 🧸 About Me 
-💻 Interested In Full Stack, Data Science 
 
-🛠️ Technical Skills
+
+👩🏻‍💻 Interests: Full Stack, Data Science 
+
+
+👾 Technical Skills:
+
 Languages: Python, Java, SQL, HTML, CSS
-Frameworks & Libraries: Flask
-Databases: MySQL
 
-📫 How to Reach Me
+📩 Contact me:
+
 Email: [nikita.lakkoju@gmail.com]
-LinkedIn: Nikita Lakkoju [https://www.linkedin.com/in/nikita-lakkoju-7a640227a/]
+
+LinkedIn: Nikita Lakkoju
+
 Visit my website: [https://nikitalakkoju.github.io/Nikita_Website/]
 
 Thanks for visiting my profile :)
