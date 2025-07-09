@@ -3,10 +3,10 @@ Welcome to my GitHub profile! I am passionate about Full stack development, AI/M
   
 
 
-🧸 About Me 
+🧸 About Me :
 
 
-👩🏻‍💻 Interests: Full Stack, Data Science 
+👩🏻‍💻 Interests: Full Stack, Data Science
 
 
 👾 Technical Skills:
